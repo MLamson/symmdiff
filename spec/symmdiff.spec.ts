@@ -1,4 +1,4 @@
-import {testSetup} from "../src/test";
+import {testSetup} from "../src/symmdiff";
 
 describe('test', () => {
     it('true should be true', () => {
